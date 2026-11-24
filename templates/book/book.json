@@ -1,0 +1,11 @@
+{
+  "title": "{{book_title}}",
+  "author": "{{author}}",
+  "genre": "{{genre}}",
+  "year": "{{year}}",
+  "isbn": "{{isbn}}",
+  "url": "{{book_url}}",
+  "summary": "{{short_summary}}",
+  "tags": ["{{tag_1}}", "{{tag_2}}"],
+  "notes": "{{notes}}"
+}

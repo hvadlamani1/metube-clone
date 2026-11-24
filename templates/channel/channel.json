@@ -1,0 +1,10 @@
+{
+  "name": "{{channel_name}}",
+  "handle": "{{@handle}}",
+  "url": "{{channel_url}}",
+  "category": "{{category}}",
+  "language": "{{language}}",
+  "description": "{{short_description}}",
+  "tags": ["{{tag_1}}", "{{tag_2}}"],
+  "notes": "{{notes}}"
+}
